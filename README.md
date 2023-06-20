@@ -4,9 +4,11 @@
 
 ## Objetivos
 
-## Metodologia
+## Funcionamento
 
 ## Tecnologias
+
+## Screenshots
 
 ## Aprendizados
 
