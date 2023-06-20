@@ -4,7 +4,7 @@
 
 ## Objetivos
 
-## Metodologia
+## Funcionamento
 
 ## Tecnologias
 - Python
@@ -12,6 +12,8 @@
 - API
 - HTML
 - CSS
+
+## Screenshots
 
 ## Aprendizados
 - Postman
