@@ -5,8 +5,7 @@
         <meta http-equiv='X-UA-Compatible' content='IE=edge'>
         <title>Upload files</title>
         <meta name='viewport' content='width=device-width, initial-scale=1'>
-        <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"> -->
-        <link rel="stylesheet" href="../static/css/style.css">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
     </head>
     <body>
         <div id="pesquisa">
@@ -14,12 +13,12 @@
                 <p> Seja bem-vindo! </p>
                 <p> Sistema de Upload de Arquivos </p>
             </h1>
-            <form method="POST" action="/">
+            <form method="POST" action="" enctype="multipart/form-data">
                 <p>
-                    <input type="file" name="Selecione arquivo">
+                    <input type="file" value="Selecione arquivo" name="file">
                 </p>
                 <p>
-                    <input type="submit" value="Submit">
+                    <input type="submit" value="Upload">
                 </p>
             </form>
         </div>
