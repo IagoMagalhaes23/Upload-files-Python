@@ -17,7 +17,7 @@ Ao abrir à aplicação, o usuário será levado ao uma página simples em que p
 - CSS
 
 ## Screenshots
-
+![image](https://github.com/IagoMagalhaes23/Upload-files-Python/assets/65053026/ac51771a-1986-4fdb-a6a0-88dfb5f09862) <br>
 
 ## Aprendizados
 - Postman
